@@ -34,3 +34,8 @@ Steps:
 5) Retract your fuel probe. Do the same thing you did to extend it but in reverse.
 
 Done. Congratulations, if you did it correctly you just successfully conducted HAAR.
+
+### Using other planes:
+It is possible to use other planes to conduct HAAR, the C-130 from the USAF mod is one of them. To set this up you just need to replace the provided tanker with the C-130 and add a bit more code to it (see the Code.md file).
+
+If you just want to use another plane and don't care about how the rope or basket is attached use the "Alternate plane basic" init code.
