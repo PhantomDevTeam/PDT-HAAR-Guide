@@ -11,7 +11,7 @@ Steps:
 1) Place a compatible helicopter.
 2) Place a tanker in the bottom-left corner of the map and give it 4 waypoints. Put a "move" waypoint in the bottom-right corner, top-right corner, and top-left corner, then place a "cycle" waypoint in the bottom-left corner.
 3) In the tankers init paste the "Tanker init" code (see the Code.md file).
-    Optional: set the tanker's variable name to "PDT_Tanker" or a variable name of your choice.
+Optional: set the tanker's variable name to "PDT_Tanker" or a variable name of your choice.
 If you don't want a tracking marker you're done. Preview the mission and skip to the "Refueling" section.
 
 ### Game Logic setup:
