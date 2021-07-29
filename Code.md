@@ -53,3 +53,13 @@ Use this if you just want to refuel from any plane
 this forceSpeed 56.5888889;
 [this] call vtx_uh60_aar_fnc_initTanker;
 ```
+
+### Set the player's vehicle fuel to half.
+Paste and execute this in the debug menu.
+```
+(vehicle player) setFuel 0.5;
+```
+Or paste this in the vehicle init.
+```
+this setFuel 0.5;
+```
